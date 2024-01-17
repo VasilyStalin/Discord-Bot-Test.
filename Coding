@@ -1,1 +1,15 @@
 this is where we practice to code.
+body {
+width: 100%;
+background-color: #ff0000;
+color: #fff0000
+}
+
+#main {
+width: 1000px;
+margin: 0px auto;
+}```
+
+```html
+<body>
+<div id="main">
