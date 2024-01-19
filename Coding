@@ -4,7 +4,6 @@ width: 100%;
 background-color: #ff0000;
 color: #fff0000
 }
-
 #main {
 width: 1000px;
 margin: 0px auto;
